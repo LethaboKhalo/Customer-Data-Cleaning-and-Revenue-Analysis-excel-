@@ -53,11 +53,11 @@ After cleaning the data, exploratory analysis was conducted to identify:
 
 #### Tools used:
 
-Excel Functions
-Pivot Tables
-Conditional Formatting
-Data Validation
-Statistical Analysis
+Excel Functions,
+Pivot Tables,
+Conditional Formatting,
+Data Validation,
+Statistical Analysis.
 
 ## Key Insights
 -Identified spending patterns across countries

@@ -67,6 +67,14 @@ Statistical Analysis
 
 <img width="797" height="382" alt="Screenshot 2026-06-10 104442" src="https://github.com/user-attachments/assets/32066545-7bb7-4cd3-b8f8-d0e838c4f572" />
 
+<img width="803" height="420" alt="Screenshot 2026-06-10 104331" src="https://github.com/user-attachments/assets/c5b41f6d-8503-4628-86ac-c901ed511346" />
+
+<img width="812" height="363" alt="Screenshot 2026-06-10 104410" src="https://github.com/user-attachments/assets/c3c0ad9c-006e-4e0b-888d-4237768c6b3b" />
+
+
+
+
+
 
 
 ## Skills Demonstrated

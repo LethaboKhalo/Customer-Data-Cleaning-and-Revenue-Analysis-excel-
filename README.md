@@ -65,6 +65,10 @@ Statistical Analysis
 -Standardized records for more reliable reporting
 -Produced a clean dataset suitable for business analysis
 
+<img width="797" height="382" alt="Screenshot 2026-06-10 104442" src="https://github.com/user-attachments/assets/32066545-7bb7-4cd3-b8f8-d0e838c4f572" />
+
+
+
 ## Skills Demonstrated
 
 ✔ Data Cleaning
